@@ -1,0 +1,7 @@
+html - q1
+flex-direction allows you to decide the direction of flex property (display property).
+direction options :
+- column
+- column-reverse
+- row
+- row-reverse
